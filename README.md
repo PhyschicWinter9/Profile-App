@@ -1,6 +1,6 @@
 # Profile App Project
 
-A new Flutter project.
+This Project Example Mobile App for Profiles
 
 ## Getting Started
 
