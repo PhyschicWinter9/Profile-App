@@ -1,4 +1,4 @@
-# profile
+# Profile App Project
 
 A new Flutter project.
 
